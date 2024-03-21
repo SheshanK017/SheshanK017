@@ -2,7 +2,7 @@
 <h3 align="center">One Commit at a Time</h3>
 <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="animated image" width="400" align="right"/>
 
-- 🌱 I’m currently learning ** React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **react,next,react native,express,node,java,javascript**
 
