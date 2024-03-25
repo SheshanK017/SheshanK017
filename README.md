@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheshank</h1>
-<h3 align="center">One Commit at a Time</h3>
+<h2 align="center">One Commit at a Time</h2>
 <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="animated image" width="400" align="right"/>
 
 - 🌱 I’m currently learning **React Native**
